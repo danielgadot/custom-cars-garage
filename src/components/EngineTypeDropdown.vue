@@ -15,7 +15,7 @@ export default {
         if (this.$parent.addCar) {
             this.selectedEngine = '';
         } else {
-            this.selectedEngine = JSON.parse(localStorage.getItem("engineFilter")) || '';
+            this.selectedEngine = JSON.parse(localStorage.getItem("engineFilter")) || 'all';
             this.$emit('onSelectedEngine',{
                 engine: this.selectedEngine
             });
