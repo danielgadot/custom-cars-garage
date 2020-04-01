@@ -1,0 +1,53 @@
+
+[
+    {
+       "plate":1122233,
+       "makerAndModel":"Tesla 3",
+       "engine": "Electric"
+    },
+    {
+       "plate":2233322,
+       "makerAndModel":"Tesla 3",
+       "engine": "Electric"
+    },
+    {
+       "plate":3344433,
+       "makerAndModel":"Tesla 3",
+       "engine": "Electric"
+    },
+    {
+       "plate":3334445,
+       "makerAndModel":"Tesla Y",
+       "engine": "Electric"
+    },
+    {
+       "plate":34567876,
+       "makerAndModel":"Tesla Y",
+       "engine": "Electric"
+    },
+    {
+       "plate":1234567,
+       "makerAndModel":"Ford Fiesta",
+       "engine": "Petrol"
+    },
+    {
+       "plate":76867456,
+       "makerAndModel":"Ford Fiesta",
+       "engine": "Petrol"
+    },
+    {
+       "plate":98734543,
+       "makerAndModel":"Ford Fusion P",
+       "engine": "Petrol"
+    },
+    {
+       "plate":4245685,
+       "makerAndModel":"Ford Fusion P",
+       "engine": "Petrol"
+    },
+    {
+       "plate":98709987,
+       "makerAndModel":"Toyota Prius",
+       "engine": "Hybrid"
+    }
+ ]

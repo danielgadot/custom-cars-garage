@@ -1,0 +1,47 @@
+[
+    {
+       "id":1,
+       "name":"Tesla 3",
+       "engineType": 3
+    },
+    {
+       "id":2,
+       "name":"Tesla Y",
+       "engineType": 3
+    },
+    {
+       "id":3,
+       "name":"Chevy Volt",
+       "engineType": 3
+    },
+    {
+       "id":4,
+       "name":"Nissan Leaf",
+       "engineType": 3
+    },
+    {
+       "id":5,
+       "name":"Toyota Prius",
+       "engineType": 2
+    },
+    {
+       "id":6,
+       "name":"Ford Fusion H",
+       "engineType": 2
+    },
+    {
+       "id":7,
+       "name":"Ford Fusion P",
+       "engineType": 1
+    },
+    {
+       "id":8,
+       "name":"Ford Fiesta",
+       "engineType": 1
+    },
+    {
+       "id":9,
+       "name":"Volkswagen Golf",
+       "engineType": 1
+    }
+ ]
